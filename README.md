@@ -1,2 +1,2 @@
 # ACCompiler
-An MLIR compiler for OpenACC.
+An C/C++ MLIR compiler for OpenACC.
